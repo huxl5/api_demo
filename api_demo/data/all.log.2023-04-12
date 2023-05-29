@@ -1,0 +1,15 @@
+2023-04-12 10:08:22,357 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/task/mylogger_test.py[line:25] - DEBUG: debug
+2023-04-12 10:08:22,358 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/task/mylogger_test.py[line:26] - INFO: info
+2023-04-12 10:08:22,358 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/task/mylogger_test.py[line:27] - WARNING: 警告
+2023-04-12 10:08:22,358 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/task/mylogger_test.py[line:28] - ERROR: 报错
+2023-04-12 10:08:22,358 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/task/mylogger_test.py[line:29] - CRITICAL: 严重
+2023-04-12 10:10:16,149 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:25] - DEBUG: debug
+2023-04-12 10:10:16,149 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:26] - INFO: info
+2023-04-12 10:10:16,150 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:27] - WARNING: 警告
+2023-04-12 10:10:16,150 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:28] - ERROR: 报错
+2023-04-12 10:10:16,150 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:29] - CRITICAL: 严重
+2023-04-12 15:19:38,391 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:25] - DEBUG: debug
+2023-04-12 15:19:38,391 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:26] - INFO: info
+2023-04-12 15:19:38,391 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:27] - WARNING: 警告
+2023-04-12 15:19:38,391 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:28] - ERROR: 报错
+2023-04-12 15:19:38,392 - D:/work_softs/workspace-py-citic/industry_insight_news_spider/api_demo/api_demo/utils/mylogger_test.py[line:29] - CRITICAL: 严重
