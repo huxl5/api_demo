@@ -27,7 +27,13 @@ b、同级目录下一定要有__init__.py文件。
 ##玩：
 [ai绘画](https://www.runoob.com/python3/python-ai-draw.html)
 
+
+# 工具
+##git使用
+提交用英文，中文会编解码，可读性差
 ##README.md 格式
+
+
 
 
 
